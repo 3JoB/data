@@ -1,0 +1,20 @@
+{
+    "config": {
+        "lang" : "en-US",
+        "ver": 1
+    },
+    "news" : [
+        {
+            "title": "test",
+            "image": "<def>",
+            "release": "2023/7/18 9:57",
+            "nid": 100002
+        },
+        {
+            "title": "A0P0R4 preview update",
+            "image": "<def>",
+            "release": "2023/7/18 9:39",
+            "nid": 100001
+        }
+    ]
+}
